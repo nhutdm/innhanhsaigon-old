@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://innhanhsaigon.com/sitemap.xml
